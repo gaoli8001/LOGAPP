@@ -13,3 +13,4 @@ dependencies:
   - joblib
   - streamlit
   - imbalanced-learn  
+  - openpyxl
