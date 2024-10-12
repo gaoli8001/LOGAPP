@@ -16,4 +16,4 @@ dependencies:
   - openpyxl
   - tabulate
   - xgboost
-  - lightGBM
+  - lightgbm
