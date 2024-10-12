@@ -4,7 +4,7 @@ Created on Sat Oct 12 10:05:49 2024
 
 @author: gaoli
 """
-
+from scipy import stats
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
