@@ -12,3 +12,5 @@ lightgbm
 imblearn
 python
 imbalanced-learn
+pip
+
